@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pchandiok
 - 👀 I’m interested in Freelance Web Development work
-- 🌱 I’m currently learning ReactJS, .net core, blazor, django, flask
+- 🌱 I’m currently learning ReactJS, .net6, blazor, django, MERN
 - 💞️ I’m looking to collaborate on .net core, blazor
 - 📫 How to reach me pchandiok2019 [at] gmail [dot] com
 
